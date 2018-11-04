@@ -1,0 +1,13 @@
+{
+  "name": "javascript-node",
+  "scripts": {
+    "test": "./node_modules/.bin/gulp test"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-mocha": "^3.0.1",
+    "jshint": "^2.9.4"
+  }
+}
